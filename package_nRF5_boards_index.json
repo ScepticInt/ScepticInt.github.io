@@ -166,7 +166,7 @@
           "help": {
             "online": "https://github.com/sandeepmistry/arduino-nRF5/issues"
           },
-          "url": "https://github.com/scepticint/arduino-nRF5/archive/arduino-nRF5-0.5.0.tar.gz",
+          "url": "https://github.com/ScepticInt/arduino-nRF5/blob/sinobit/archive/arduino-nRF5-0.5.0.tar.gz",
           "archiveFileName": "arduino-nRF52-0.4.0.tar.gz",
           "checksum": "MD5:f12785c67eb79b2c5316725d17c61f41",
           "size": "1151879",
