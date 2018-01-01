@@ -166,8 +166,8 @@
           "help": {
             "online": "https://github.com/sandeepmistry/arduino-nRF5/issues"
           },
-          "url": "https://github.com/ScepticInt/arduino-nRF5/raw/master/archive/arduino-nRF5-0.5.0.tar.gz",
-          "archiveFileName": "arduino-nRF52-0.4.0.tar.gz",
+          "url": "https://github.com/ScepticInt/arduino-nRF5/raw/master/archive/arduino-nRF5-0.5.0.zip",
+          "archiveFileName": "arduino-nRF52-0.5.0.zip",
           "checksum": "MD5:F12785C67EB79B2C5316725D17C61F41",
           "size": "1151879",
           "boards": [
