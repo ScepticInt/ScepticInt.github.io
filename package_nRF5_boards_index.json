@@ -161,15 +161,15 @@
         {
           "name": "Nordic Semiconductor nRF5 Boards",
           "architecture": "nRF5",
-          "version": "0.5.0",
+          "version": "0.5.1",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/sandeepmistry/arduino-nRF5/issues"
           },
           "url": "https://github.com/ScepticInt/arduino-nRF5/raw/master/archive/arduino-nRF5-0.5.0.zip",
-          "archiveFileName": "arduino-nRF52-0.5.0.zip",
-          "checksum": "MD5:BE6FA6989FA593A2D0567E8C140AF6AE",
-          "size": "1151879",
+          "archiveFileName": "arduino-nRF52-0.5.1.zip",
+          "checksum": "MD5:C2F722592CF8F9B85A8734262E49D7E4",
+          "size": "1350116",
           "boards": [
             {"name": "BBC micro:bit"},
             {"name": "Bluz DK"},
