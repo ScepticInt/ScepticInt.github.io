@@ -168,8 +168,8 @@
           },
           "url": "https://github.com/ScepticInt/arduino-nRF5/raw/master/archive/arduino-nRF5-0.5.0.tar.gz",
           "archiveFileName": "arduino-nRF52-0.5.0.tar.gz",
-          "checksum": "MD5:D7F5453E577A19541B93E1CB7156B36C",
-          "size": "1172418",
+          "checksum": "MD5:80018FC35DCC5A79F6454A48056E91E2",
+          "size": "1174446",
           "boards": [
             {"name": "BBC micro:bit"},
             {"name": "Bluz DK"},
